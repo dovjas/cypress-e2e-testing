@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test:registration":"npx cypress run --spec cypress/e2e/tests/registrationTest.cy.js",
     "test:addtocart":"npx cypress run --spec cypress/e2e/tests/addToCartTest.cy.js"
   },
   "repository": {
