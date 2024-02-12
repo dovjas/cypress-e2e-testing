@@ -1,0 +1,5 @@
+1.npm init
+2.npm i cypress --save-dev
+3.Mochawesome reporter for Cypress 
+npm i --save-dev cypress-mochawesome-reporter
+4.Run Cypress test on CICD using Github Actions 

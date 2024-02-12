@@ -14,5 +14,5 @@ describe('Test automation',()=>{
         registrationObj.enterPassword(registrationData.password);
         registrationObj.selectCheckbox();
         registrationObj.clickContinue();
-    })
-})
+    });
+});
